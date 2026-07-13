@@ -35,15 +35,15 @@ onMounted(fetchUser);
 
 <template>
   <div class="employees-view">
+    <h1>User</h1>
+    <!-- display user fetch api  -->
+  </div>
+  <div class="employees-view">
     <h1>Employees</h1>
 
     <!-- add form input receive employee Id and employee Name , -->
 
     <!-- display list of employee employees -->
-  </div>
-  <div class="employees-view">
-    <h1>User</h1>
-    <!-- display user fetch api  -->
   </div>
 </template>
 
